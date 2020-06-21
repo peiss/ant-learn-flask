@@ -1,7 +1,3 @@
-README.md  
-
-本代码的视频教程地址：  
-http://www.iqiyi.com/a_19rrh35u11.html
 
 
 个人微信公众号：蚂蚁学Python  
