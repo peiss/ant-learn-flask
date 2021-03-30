@@ -1,4 +1,154 @@
-[INFO] 2021-03-30 19:56:16,011 [pss_waitress.py:11, <module>] begin service
-[INFO] 2021-03-30 19:56:16,226 [wasyncore.py:485, log_info] Serving on http://0.0.0.0:8080
-[INFO] 2021-03-30 19:56:38,686 [pss_app.py:10, index] myendpoint We are computering now
-myendpoint We are computering now
+[INFO] 2021-03-30 20:08:29,666 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:29,859 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:29,866 [pss_waitress.py:38, <module>] process_is_not_alive_begin_new
+process_is_not_alive_begin_new
+[INFO] 2021-03-30 20:08:29,869 [wasyncore.py:485, log_info] Serving on http://0.0.0.0:8889
+Serving on http://0.0.0.0:8889
+[INFO] 2021-03-30 20:08:31,367 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:31,536 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:31,544 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:31,544 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:33,158 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:33,305 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:33,312 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:33,312 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:33,652 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:33,800 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:33,806 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:33,806 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:33,900 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:34,060 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:34,069 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:34,069 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:34,141 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:34,289 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:34,296 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:34,296 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:37,563 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:37,719 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:37,726 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:37,726 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:37,811 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:37,969 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:37,977 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:37,977 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:38,049 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:38,207 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:38,214 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:38,215 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:38,289 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:38,441 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:38,447 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:38,448 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:38,833 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:38,981 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:38,987 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:38,987 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:39,101 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:39,259 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:39,266 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:39,266 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:39,334 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:39,491 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:39,498 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:39,498 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:40,159 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:40,313 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:40,320 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:40,320 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:41,202 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:41,353 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:41,360 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:41,361 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:41,873 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:42,029 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:42,036 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:42,036 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:42,353 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:42,513 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:42,520 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:42,520 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:42,881 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:43,033 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:43,040 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:43,040 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:43,246 [pss_waitress.py:13, <module>] begin service
+begin service
+[INFO] 2021-03-30 20:08:43,416 [pss_waitress.py:34, <module>] try check and start app, begin
+try check and start app, begin
+[INFO] 2021-03-30 20:08:43,423 [pss_waitress.py:36, <module>] process_is_alive_noneed_begin
+process_is_alive_noneed_begin
+[INFO] 2021-03-30 20:08:43,423 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
+[INFO] 2021-03-30 20:08:56,258 [pss_waitress.py:41, <module>] try check and start app, end
+try check and start app, end
