@@ -1,0 +1,4 @@
+[INFO] 2021-03-30 19:56:16,011 [pss_waitress.py:11, <module>] begin service
+[INFO] 2021-03-30 19:56:16,226 [wasyncore.py:485, log_info] Serving on http://0.0.0.0:8080
+[INFO] 2021-03-30 19:56:38,686 [pss_app.py:10, index] myendpoint We are computering now
+myendpoint We are computering now
